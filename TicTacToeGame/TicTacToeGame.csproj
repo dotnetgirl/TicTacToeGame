@@ -1,0 +1,89 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+    <ApplicationIcon>Icon.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="DomainThings\Grid.png" />
+    <None Remove="DomainThings\Icon.ico" />
+    <None Remove="DomainThings\O0.png" />
+    <None Remove="DomainThings\O1.png" />
+    <None Remove="DomainThings\O10.png" />
+    <None Remove="DomainThings\O11.png" />
+    <None Remove="DomainThings\O12.png" />
+    <None Remove="DomainThings\O13.png" />
+    <None Remove="DomainThings\O14.png" />
+    <None Remove="DomainThings\O15.png" />
+    <None Remove="DomainThings\O2.png" />
+    <None Remove="DomainThings\O3.png" />
+    <None Remove="DomainThings\O4.png" />
+    <None Remove="DomainThings\O5.png" />
+    <None Remove="DomainThings\O6.png" />
+    <None Remove="DomainThings\O7.png" />
+    <None Remove="DomainThings\O8.png" />
+    <None Remove="DomainThings\O9.png" />
+    <None Remove="DomainThings\X0.png" />
+    <None Remove="DomainThings\X1.png" />
+    <None Remove="DomainThings\X10.png" />
+    <None Remove="DomainThings\X11.png" />
+    <None Remove="DomainThings\X12.png" />
+    <None Remove="DomainThings\X13.png" />
+    <None Remove="DomainThings\X14.png" />
+    <None Remove="DomainThings\X15.png" />
+    <None Remove="DomainThings\X2.png" />
+    <None Remove="DomainThings\X3.png" />
+    <None Remove="DomainThings\X4.png" />
+    <None Remove="DomainThings\X5.png" />
+    <None Remove="DomainThings\X6.png" />
+    <None Remove="DomainThings\X7.png" />
+    <None Remove="DomainThings\X8.png" />
+    <None Remove="DomainThings\X9.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Icon.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="DomainThings\Grid.png" />
+    <Resource Include="DomainThings\Icon.ico" />
+    <Resource Include="DomainThings\O0.png" />
+    <Resource Include="DomainThings\O1.png" />
+    <Resource Include="DomainThings\O10.png" />
+    <Resource Include="DomainThings\O11.png" />
+    <Resource Include="DomainThings\O12.png" />
+    <Resource Include="DomainThings\O13.png" />
+    <Resource Include="DomainThings\O14.png" />
+    <Resource Include="DomainThings\O15.png" />
+    <Resource Include="DomainThings\O2.png" />
+    <Resource Include="DomainThings\O3.png" />
+    <Resource Include="DomainThings\O4.png" />
+    <Resource Include="DomainThings\O5.png" />
+    <Resource Include="DomainThings\O6.png" />
+    <Resource Include="DomainThings\O7.png" />
+    <Resource Include="DomainThings\O8.png" />
+    <Resource Include="DomainThings\O9.png" />
+    <Resource Include="DomainThings\X0.png" />
+    <Resource Include="DomainThings\X1.png" />
+    <Resource Include="DomainThings\X10.png" />
+    <Resource Include="DomainThings\X11.png" />
+    <Resource Include="DomainThings\X12.png" />
+    <Resource Include="DomainThings\X13.png" />
+    <Resource Include="DomainThings\X14.png" />
+    <Resource Include="DomainThings\X15.png" />
+    <Resource Include="DomainThings\X2.png" />
+    <Resource Include="DomainThings\X3.png" />
+    <Resource Include="DomainThings\X4.png" />
+    <Resource Include="DomainThings\X5.png" />
+    <Resource Include="DomainThings\X6.png" />
+    <Resource Include="DomainThings\X7.png" />
+    <Resource Include="DomainThings\X8.png" />
+    <Resource Include="DomainThings\X9.png" />
+  </ItemGroup>
+
+</Project>
